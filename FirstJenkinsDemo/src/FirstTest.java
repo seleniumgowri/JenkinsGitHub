@@ -8,6 +8,8 @@ public class FirstTest {
 		
 		System.out.println("********** Jenkins ********");
 		
+		System.out.println("********** GitHub ********");
+		
 		
 		
 		
